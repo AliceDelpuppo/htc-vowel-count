@@ -42,11 +42,22 @@ body {
   text-align: center;
   margin-bottom: 10px;
 }
+.container-center .container p {
+  margin-bottom: 10px;
+}
 .container-center .container input {
   margin-bottom: 10px;
+  padding-left: 10px;
+  font-size: 16px;
   width: 500px;
-  height: 30px;
+  height: 40px;
+  border-radius: 5px;
   background-color: rgba(188, 143, 143, 0.1);
+}
+.container-center .container span {
+  font-size: 20px;
+  font-weight: 700;
+  color: blue;
 }
 
 /*# sourceMappingURL=style.css.map */
